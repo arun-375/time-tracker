@@ -4,7 +4,7 @@ Java (Maven) application for tracking time on the job
 
 ## Purpose
 
-Simple Java-app using Maven Arun.
+Simple Java-app using Maven.
 
 ## Building
 
